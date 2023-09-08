@@ -1,0 +1,11 @@
+.navbar ul{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 35rem;
+
+}
+.navbar ul li{
+    padding: 10px;
+    font-family: cursive;
+    font-weight: bolder;
+}
